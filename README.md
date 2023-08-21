@@ -34,11 +34,7 @@ Certifique-se de configurar as permissões necessárias na conta do WhatsApp que
 
 ## Exemplos de Uso
 
-O repositório inclui exemplos simples para demonstrar como usar as principais funcionalidades do bot. Você pode encontrar esses exemplos na pasta `examples`.
-
-## Documentação
-
-Para informações detalhadas sobre como configurar, personalizar e estender o bot, consulte a [documentação](https://github.com/username/repo-name/wiki).
+O repositório inclui exemplos simples para demonstrar como usar as principais funcionalidades do bot. Você pode encontrar esses exemplos no arquivo `index.js`.
 
 ## Licença
 
