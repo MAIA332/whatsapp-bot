@@ -28,7 +28,7 @@ Este repositório contém o código-fonte de um bot de WhatsApp que utiliza a bi
 
 1. Clone este repositório: `git clone https://github.com/MAIA332/whatsapp-bot.git`
 2. Instale as dependências: `$ npm i whatsapp-web.js`
-3. Execute o bot: `npm start`
+3. Execute o bot: `node .`
 
 Certifique-se de configurar as permissões necessárias na conta do WhatsApp que será usada pelo bot, bem como de seguir todas as práticas recomendadas de segurança.
 
