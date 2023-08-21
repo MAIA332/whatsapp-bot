@@ -1,0 +1,22 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Um bot de WhatsApp poderoso e flexível construído com a biblioteca whatsapp-web.js, permitindo interações automatizadas e personalizadas no WhatsApp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MAIA332/whatsapp-bot.git"
+  },
+  "author": "Lukas Maia",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/MAIA332/whatsapp-bot/issues"
+  },
+  "homepage": "https://github.com/MAIA332/whatsapp-bot#readme",
+  "dependencies": {
+    "whatsapp-web.js": "^1.22.1"
+  }
+}
